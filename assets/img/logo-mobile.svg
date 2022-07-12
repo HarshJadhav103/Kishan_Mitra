@@ -1,0 +1,29 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1717 492" width="1717" height="492">
+	<title>Layer 1</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #00e676 } 
+		.shp1 { fill: #efb81a } 
+		.shp2 { fill: #eeb719 } 
+		.txt3 { font-size: 200px;fill: #00e676;font-weight: 700;font-style: italic;font-family: "Montserrat-BoldItalic", "Montserrat";text-anchor: middle } 
+		.txt4 { font-size: 120px;fill: #eeb719;font-weight: 300;font-family: "Montserrat-Light", "Montserrat";text-anchor: middle } 
+	</style>
+	<g id="Layer 1">
+		<g id="&lt;Group&gt;">
+			<g id="&lt;Group&gt;">
+				<path id="&lt;Path&gt;" class="shp0" d="M245.87 245.83L245.87 214.96L245.87 176.69C245.87 131.01 208.83 93.98 163.15 93.98L94.01 93.98L94.01 163.11C94.01 208.79 131.05 245.83 176.73 245.83L245.87 245.83Z" />
+			</g>
+			<g id="&lt;Group&gt;">
+				<path id="&lt;Path&gt;" class="shp1" d="M281.73 245.83C327.41 245.83 364.45 208.79 364.45 163.11L364.45 132.25L333.58 132.25C287.9 132.25 250.87 169.28 250.87 214.96L250.87 245.83L281.73 245.83Z" />
+			</g>
+			<g id="&lt;Group&gt;">
+				<path id="&lt;Path&gt;" class="shp2" d="M240.87 366.81L240.87 397.68L210.01 397.68C164.32 397.68 127.29 360.65 127.29 314.96L127.29 284.1L158.15 284.1C203.84 284.1 240.87 321.13 240.87 366.81Z" />
+			</g>
+			<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="shp0" d="M491.7 245.83C491.7 311.49 466.13 373.23 419.7 419.66C373.27 466.09 311.53 491.66 245.87 491.66C180.21 491.66 118.47 466.09 72.04 419.66C25.61 373.23 0.04 311.49 0.04 245.83C0.04 180.16 25.61 118.43 72.04 72C118.47 25.56 180.21 -0.01 245.87 -0.01C311.53 -0.01 373.27 25.56 419.7 72C466.13 118.43 491.7 180.16 491.7 245.83ZM466.7 245.83C466.7 124.06 367.64 24.99 245.87 24.99C124.1 24.99 25.04 124.06 25.04 245.83C25.04 367.59 124.1 466.66 245.87 466.66L245.87 328.54C245.87 282.86 282.9 245.83 328.59 245.83L397.72 245.83L397.72 314.96C397.72 360.65 360.69 397.68 315.01 397.68L271.37 397.68L271.37 465.18C381.17 452.5 466.7 358.97 466.7 245.83Z" />
+		</g>
+		<text id="Kisan Mitra FRIEND FOREVER " style="transform: matrix(1,0,0,1,1117.867,246)" >
+			<tspan x="0" y="0" class="txt3">Kisan Mitra</tspan>
+			<tspan x="0" y="134.4" class="txt4">FRIEND FOREVER</tspan>
+		</text>
+	</g>
+</svg>
